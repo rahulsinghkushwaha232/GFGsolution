@@ -2,7 +2,7 @@
 
 🔗 [Problem Link](https://www.geeksforgeeks.org/problems/common-elements5420/1)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
 ### 💡 Tags
 Java, STL, Java-Collections
